@@ -1,3 +1,5 @@
+//Write a java Program to implement a Stack
+
 import java.util.Scanner;
 
 class stack {
