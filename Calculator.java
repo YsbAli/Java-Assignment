@@ -4,7 +4,7 @@ class Calculator {
   public static void main(String[] args) {
 
     char operator;
-    Double number1, number2, result;
+    Double Num1, Num2, result;
 
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
@@ -24,26 +24,26 @@ class Calculator {
 
       // performs addition between numbers
       case '+':
-        result = number1 + number2;
-        System.out.println(number1 + " + " + number2 + " = " + result);
+        result = Num1 + Num2;
+        System.out.println(Num1 + " + " + Num2 + " = " + result);
         break;
 
       // performs subtraction between numbers
       case '-':
-        result = number1 - number2;
-        System.out.println(number1 + " - " + number2 + " = " + result);
+        result = Num1 - Num2;
+        System.out.println(Num1 + " - " + Num2 + " = " + result);
         break;
 
       // performs multiplication between numbers
       case '*':
-        result = number1 * number2;
+        result = Num1 * Num2;
         System.out.println(number1 + " * " + number2 + " = " + result);
         break;
 
       // performs division between numbers
       case '/':
-        result = number1 / number2;
-        System.out.println(number1 + " / " + number2 + " = " + result);
+        result = Num1 / Num2;
+        System.out.println(Num1 + " / " +Num2 + " = " + result);
         break;
 
       default:
