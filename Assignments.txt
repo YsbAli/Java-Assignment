@@ -5,9 +5,9 @@ status	id	problem
     Done 	3 	Write a Java program to show multilevel inheritance for a banking database.
     Done   	4 	Write a Java program to implement a railway reservation system using package.
           	5 	Write a Java program for transport database by using package and interface.
-            6 	Write a program to implement the priority of a thread.
+    Done    6 	Write a program to implement the priority of a thread.
             7 	Write a program to implement synchronization of a printing process.
-         	8 	Write a program to implement producer and consumer problem.
+   Done     8 	Write a program to implement producer and consumer problem.
         	9 	Write a program to implement deadlock avoidence using multithreading.
         	10	Write a program to implement stack using multithreading.
       	    11	Write a program to build an own exception.
