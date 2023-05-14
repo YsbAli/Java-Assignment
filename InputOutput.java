@@ -1,3 +1,5 @@
+//Write a program to take input from keyboard and print them on console
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
