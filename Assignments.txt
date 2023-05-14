@@ -4,18 +4,18 @@ status	id	problem
     Done  	2 	WAP using interface for the shipping database. It should contain 3 classes and 3 member functions.
     Done 	3 	Write a Java program to show multilevel inheritance for a banking database.
     Done   	4 	Write a Java program to implement a railway reservation system using package.
-       	5 	Write a Java program for transport database by using package and interface.
+          	5 	Write a Java program for transport database by using package and interface.
             6 	Write a program to implement the priority of a thread.
             7 	Write a program to implement synchronization of a printing process.
-       	8 	Write a program to implement producer and consumer problem.
-       	9 	Write a program to implement deadlock avoidence using multithreading.
-       	10	Write a program to implement stack using multithreading.
-      	11	Write a program to build an own exception.
-       	12	Write a program to create multiple thread.
-  	      13	Write a program to implement banking management system using multithread.
-       	14	Write a program to take input from keyboard and print them on console.
+         	8 	Write a program to implement producer and consumer problem.
+        	9 	Write a program to implement deadlock avoidence using multithreading.
+        	10	Write a program to implement stack using multithreading.
+      	    11	Write a program to build an own exception.
+         	12	Write a program to create multiple thread.
+  	        13	Write a program to implement banking management system using multithread.
+  Done      14	Write a program to take input from keyboard and print them on console.
   Done     	15	Write a program to count number of vowles in a given string.
-  Done      16	Write a program to take input from keyboard and write them in a file.
+            16	Write a program to take input from keyboard and write them in a file.
             17	Write a program to count character in a file.
             18	Write a program for native programming.
             19	WAP to copy a content from A.txt to B.txt
