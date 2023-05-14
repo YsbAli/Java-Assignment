@@ -1,3 +1,5 @@
+//Write a Java program to show multilevel inheritance for a banking database.
+
 import java.util.Scanner;
 
 // Parent class - Bank
@@ -46,21 +48,6 @@ class SavingsAccount extends Account {
     }
 }
 
-// // Child class - CheckingAccount
-// class CheckingAccount extends Account {
-//     private double overdraftLimit;
-
-//     public CheckingAccount(String bankName, String accountNumber, double balance, double overdraftLimit) {
-//         super(bankName, accountNumber, balance);
-//         this.overdraftLimit = overdraftLimit;
-//     }
-
-//     public void displayCheckingAccountInfo() {
-//         displayAccountInfo();
-//         System.out.println("Overdraft Limit: Rs " + overdraftLimit);
-//     }
-// }
-
 // Main class to test the banking database
 
 public class BankingDatabase {
@@ -81,21 +68,6 @@ public class BankingDatabase {
 
         SavingsAccount savingsAccount = new SavingsAccount(bankName, savingsAccountNumber, savingsAccountBalance, savingsAccountInterestRate);
         savingsAccount.displaySavingsAccountInfo();
-
-        // System.out.println();
-
-        // System.out.print("Enter checking account number: ");
-        // String checkingAccountNumber = scanner.next();
-
-        // System.out.print("Enter checking account balance: ");
-        // double checkingAccountBalance = scanner.nextDouble();
-
-        // System.out.print("Enter checking account overdraft limit: ");
-        // double checkingAccountOverdraftLimit = scanner.nextDouble();
-
-        // CheckingAccount checkingAccount = new CheckingAccount(bankName, checkingAccountNumber, checkingAccountBalance, checkingAccountOverdraftLimit);
-        // checkingAccount.displayCheckingAccountInfo();
-
         scanner.close();
     }
 }
